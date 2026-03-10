@@ -53,13 +53,13 @@ namespace AkademikADOApp
             { 
                 conn.Close();
 
-                
+                lblStatus.Text = "Status : Database Disconnected";
 
                
             }
             catch (Exception ex)
             { 
-                
+               
             }
 
         }
