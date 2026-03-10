@@ -26,4 +26,7 @@ namespace AkademikADOApp
         string connString = 
         "Data Source=DEVALLDINOZAIN\\DEV;Initial Catalog= DBAkademikADO;Integrated Security=True";
 
-        
+        SqlConnection conn;
+
+       
+}
