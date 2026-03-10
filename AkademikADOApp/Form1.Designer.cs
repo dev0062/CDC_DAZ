@@ -45,7 +45,7 @@
             // 
             // btnDisconnect
             // 
-            this.btnDisconnect.Location = new System.Drawing.Point(369, 255);
+            this.btnDisconnect.Location = new System.Drawing.Point(358, 219);
             this.btnDisconnect.Name = "btnDisconnect";
             this.btnDisconnect.Size = new System.Drawing.Size(163, 47);
             this.btnDisconnect.TabIndex = 1;
