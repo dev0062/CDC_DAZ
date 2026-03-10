@@ -32,15 +32,17 @@ namespace AkademikADOApp
         {
             try
             {
-                
+                conn = new SqlConnection(connString);
+
+               
             }
             catch (Exception ex)
             {
-                      
+              
             }
 
         }
 
-        
+       
     }
 }
