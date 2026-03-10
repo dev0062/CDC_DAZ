@@ -36,6 +36,8 @@ namespace AkademikADOApp
 
                 conn.Open();
 
+                lblStatus.Text = "Status : Database Connected";
+
                 
             }
             catch (Exception ex)
