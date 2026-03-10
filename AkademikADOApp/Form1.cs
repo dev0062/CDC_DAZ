@@ -51,6 +51,10 @@ namespace AkademikADOApp
         {
             try
             { 
+                conn.Close();
+
+                
+
                
             }
             catch (Exception ex)
